@@ -6,6 +6,8 @@ Built with **Python, FastAPI and SQLite**.
 ## Setup
 
 ```bash
+git clone https://github.com/ananda-kaviya/Backend_project.git
+cd Backend_project
 python -m venv venv
 venv\Scripts\activate          # Windows
 # source venv/bin/activate     # Mac/Linux
